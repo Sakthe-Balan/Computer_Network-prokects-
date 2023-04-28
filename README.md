@@ -1,10 +1,10 @@
 # Computer_Network-prokects-
 
-##Screen sharing applications which use MSS, Socket, SV2, and Tkinter:
+## Screen sharing applications which use MSS, Socket, SV2, and Tkinter:
 A screen sharing application allows a user to share their computer screen with another user or multiple users. The application uses the MSS (Multiple Screen Shots) library to capture the screen's images and the Socket library to transfer the data to the remote user. The SV2 (Screen Viewer Version 2) library provides a graphical user interface for the remote user to view the shared screen. Tkinter is a Python library that provides a set of tools for creating graphical user interfaces. The screen sharing application uses Tkinter to create the user interface for the local user, allowing them to select which screen to share and initiate the screen sharing process.
 
-##Resource sharing application which uses Socket and OS:
+## Resource sharing application which uses Socket and OS:
 A resource sharing application allows a user to send code or files to another user who has the required dependencies to run the code or files. The application uses the Socket library to transfer the code or files from one computer to another. The OS library provides the necessary tools to execute the code or files on the remote computer. The resource sharing application allows developers to share code with their colleagues, which can help reduce development time and increase collaboration.
 
-##TCP and UDP port scanner which uses Scapy:
+## TCP and UDP port scanner which uses Scapy:
 A port scanner is a software tool that is used to scan a computer or a network for open ports. The application sends packets to the target computer or network, and if a port is open, it receives a response. The application uses the Scapy library, which is a Python library for packet manipulation, to create and send the packets. The port scanner can scan both TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) ports. TCP is a reliable, connection-oriented protocol used for transmitting data over networks, while UDP is a connectionless, unreliable protocol used for transmitting data over networks. The port scanner can be used by network administrators to identify potential security vulnerabilities in their network.
